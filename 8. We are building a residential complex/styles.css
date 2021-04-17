@@ -1,0 +1,49 @@
+.grass {
+  width: 50px;
+  height: 50px;
+  background-color: chartreuse;
+}
+
+#cars {
+  width: 150px;
+  height: 50px;
+  background-color: darkgray;
+  text-align: center;
+}
+
+#zone {
+  background-color: darkgray;
+}
+
+.car {
+  width: 30px;
+  height: 30px;
+}
+
+.house {
+  width: 40px;
+  height: 40px;
+}
+
+.sport {
+  width: 100px;
+  height: 100px;
+}
+
+.sports {
+  text-align: center;
+}
+
+.n-road {
+  height: 50px;
+  background-color: white;
+  width: 50px;
+}
+
+.w-road {
+  height: 50px;
+}
+
+table {
+  border-spacing: 0cm;
+}

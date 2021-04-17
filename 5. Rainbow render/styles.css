@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  padding: 0 32px 0 32px;
+}
+
+.box{
+display: flex;
+flex-flow: row wrap;
+justify-content: center;
+}
+
+.element{
+  display: flex;
+  flex-flow: column wrap;
+  margin-bottom: 24px;
+  padding: 0 4px 0 4px ;
+}
+
+.title{
+  font-family: 'Quicksand', Arial, sans-serif;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+.circle{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: black;
+  margin-bottom: 8px;
+}
+
+.red{
+  background-color: red;
+}
+
+.orange{
+  background-color: darkorange;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.green{
+  background-color: green;
+}
+
+.lightblue{
+  background-color: skyblue;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.violet{
+  background-color: blueviolet;
+}
